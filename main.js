@@ -5,5 +5,5 @@ function em() {
 window.open("mailto:abhijayprs12@gmail.com")
 }
 function jml() {
-	window.open("https://thunkable.site/w/d9m4lnBjh")
+window.open("https://thunkable.site/w/d9m4lnBjh")
 }
