@@ -1,6 +1,12 @@
 .1 {
 	color: white;
 }
+#jml {
+	background-color: lightblue;
+	border-width: 0px;
+	border-radius: 2px;
+	color: white;
+}
 h1 {
   color:blue;
 }
